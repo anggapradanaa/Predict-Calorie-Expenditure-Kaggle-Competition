@@ -1,5 +1,7 @@
 # Predict-Calorie-Expenditure-Kaggle-Competition
 
+# RESULTS
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/WhatsApp%20Image%202025-07-07%20at%2011.05.35_96bae838.jpg'>
 
 # DATA LOADING
 
