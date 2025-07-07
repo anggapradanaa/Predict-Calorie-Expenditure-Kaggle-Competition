@@ -199,19 +199,19 @@ plt.show()
 
 
     
-![png](output_3_2.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_3_2.png'>
     
 
 
 
     
-![png](output_3_3.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_3_3.png'>
     
 
 
 
     
-![png](output_3_4.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_3_4.png'>
     
 
 
@@ -370,7 +370,7 @@ plt.show()
 
 
     
-![png](output_5_1.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_5_1.png'>
     
 
 
@@ -811,13 +811,13 @@ plt.show()
 
 
     
-![png](output_9_1.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_9_1.png'>
     
 
 
 
     
-![png](output_9_2.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_9_2.png'>
     
 
 
@@ -933,7 +933,7 @@ plt.show()
 
 
     
-![png](output_11_1.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_11_1.png'>
     
 
 
@@ -1352,7 +1352,7 @@ print(f"• Predictions dalam range 200-314 calories: {np.sum((blended_test_clip
 
 
     
-![png](output_13_2.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_13_2.png'>
     
 
 
