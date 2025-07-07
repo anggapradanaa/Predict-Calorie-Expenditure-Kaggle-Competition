@@ -193,7 +193,7 @@ plt.show()
 
 
     
-![png](output_3_1.png)
+<img src = 'https://github.com/anggapradanaa/Predict-Calorie-Expenditure-Kaggle-Competition/blob/main/images/output_3_1.png'>
     
 
 
